@@ -8,8 +8,8 @@ platforms, and how to diagnose the common **blank / white page** problem.
 | Folder | Contents | Status |
 | --- | --- | --- |
 | [`flutter/`](flutter/) | Flutter app (iOS + Android) — `OloidSSOBrowserDemo` | ✅ Available |
+| [`native-ios/`](native-ios/) | Native iOS (Swift) sample — `WKWebViewPOC` | ✅ Available |
 | [`react/`](react/) | React / React Native sample | ⏳ Coming soon |
-| [`native-ios/`](native-ios/) | Native iOS (Swift) sample | ⏳ Coming soon |
 | [`native-android/`](native-android/) | Native Android (Kotlin) sample | ⏳ Coming soon |
 
 ## Getting started
